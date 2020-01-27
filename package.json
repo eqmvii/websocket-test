@@ -1,0 +1,23 @@
+{
+  "name": "websocket-test",
+  "version": "1.0.0",
+  "description": "playing with ws library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eqmvii/websocket-test.git"
+  },
+  "author": "eqmvii",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eqmvii/websocket-test/issues"
+  },
+  "homepage": "https://github.com/eqmvii/websocket-test#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ws": "^7.2.1"
+  }
+}
